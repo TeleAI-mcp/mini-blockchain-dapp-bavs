@@ -1,2 +1,3 @@
-# mini-blockchain-dapp-bavs
-A blockchain decentralized application for modern development workflows
+# Mini Blockchain Dapp Bavs
+
+A blockchain decentralized application for modern development workflows.
